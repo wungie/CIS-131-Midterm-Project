@@ -1,0 +1,16 @@
+
+h1 {
+    margin: 30px;
+}
+.card {
+    margin: 50px;
+}
+
+img {
+    width: 50%;
+}
+
+.die{
+    display: flex;
+    
+}
