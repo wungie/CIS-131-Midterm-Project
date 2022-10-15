@@ -14,12 +14,12 @@ function rollDie(){
     roll = Math.ceil(Math.random() * 12);
     console.log(roll);
     var display = document.getElementById("die-sum");
-    display.innerHTML = roll
-    
+    display.innerHTML = roll;
+
 
 }
 
 function classGrade(){
     console.log("grade func");
-
+    grade = Math.ceil(Math.random() * 5);
 }
