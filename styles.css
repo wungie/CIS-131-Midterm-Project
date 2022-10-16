@@ -14,3 +14,16 @@ img {
     display: flex;
     
 }
+
+.grade{
+    display: flex;
+}
+
+.grid-comtainer{
+    display: grid;
+    grid-template-columns: 200px 200px;
+
+}
+.grid-item{
+    background-color: aqua;
+}
